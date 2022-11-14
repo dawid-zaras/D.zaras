@@ -1,0 +1,53 @@
+h1 {
+    color: orangered;
+    background-color: lightgreen;
+    padding: 10px;
+  }
+  h2 {
+    color: lightgoldenrodyellow;
+    background-color: darkgreen;
+    padding: 8px;
+  }
+  ul {
+    color: red;
+  }
+  ol {
+    color: navy;
+  }
+  body {
+    background-color: lightblue;
+  }
+  a {
+    color: darkgoldenrod;
+    background-color: lightgreen;
+    padding: 3px;
+  }
+  a1 {
+    color: brown;
+  }
+  .owoce {
+    color: aqua;
+    background-color: yellowgreen;
+    display: block;
+  }
+  .Morza {
+    color: darkblue;
+    background-color: aquamarine;
+  }
+  .owocek {
+    color: goldenrod;
+    background-color: teal;
+  }
+  .owoce:hover {
+    color: violet;
+    padding: 6px;
+    text-shadow: 1px 2px blue;
+    text-decoration: none;
+  }
+  .owocek:hover {
+    color: chartreuse;
+    box-shadow: 3px 23px 30px crimson;
+    background-color: darkblue;
+    text-decoration: lightsalmon;
+  }
+  
